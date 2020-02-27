@@ -1,5 +1,5 @@
 ---
-title: "Apache Spark"
+title: "Apache Hive"
 
 # View.
 #   1 = List
