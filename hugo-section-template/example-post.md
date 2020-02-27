@@ -4,12 +4,8 @@ slug: "kafka-p1"
 summary: What is Apache Kafka
 # basic configs
 date: 2020-01-30
-<<<<<<< HEAD
 Lastmod: 2020-01-30
 draft: true
-=======
-draft: false
->>>>>>> a07f503ffcbc22264ff2e0f306aab620e4eab30a
 tags: [hadoop, kafka, bigdata]
 # other configs
 diagram: true
